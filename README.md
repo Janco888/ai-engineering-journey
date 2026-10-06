@@ -36,3 +36,5 @@ The hosted model was about 5x faster and gave the better answer. The local model
 - Use specific prompts with any acronyms spelled out, especially for small models.
 - Hosted models are faster and more capable. Local models are free, private and work offline.
 - Keep secrets in `.env`, never in code or git.
+
+Next: Phase 1, engineering foundations
